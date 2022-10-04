@@ -1,0 +1,15 @@
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\bin\Debug\net6.0\ControlTask.exe
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\bin\Debug\net6.0\ControlTask.deps.json
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\bin\Debug\net6.0\ControlTask.runtimeconfig.json
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\bin\Debug\net6.0\ControlTask.dll
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\bin\Debug\net6.0\ControlTask.pdb
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.csproj.AssemblyReference.cache
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfoInputs.cache
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfo.cs
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.csproj.CoreCompileInputs.cache
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.dll
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\refint\ControlTask.dll
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.pdb
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ControlTask.genruntimeconfig.cache
+C:\РАЗНОЕ\УЧЕБА IT\Контрольное_задание\ControlTask\obj\Debug\net6.0\ref\ControlTask.dll
